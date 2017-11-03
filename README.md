@@ -5,7 +5,7 @@ Developed by me and @rtirene
 ### Briefly
 The main steps are:
 - acquire the source signal with an Eigenmike
-- decompose the field with Sperical Harmonic Decomposition
+- field decomposition with Sperical Harmonic Decomposition
 - field reconstruction with Plane Wave Decomposition
 - convolution with HRTF
 
